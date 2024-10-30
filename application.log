@@ -1,0 +1,4 @@
+2024-10-30 10:21:23 [main] INFO  org.example.JDBC_Logs - Starting Database Connection
+2024-10-30 10:21:24 [main] INFO  org.example.JDBC_Logs - Connected to database and execting the query
+2024-10-30 10:21:24 [main] ERROR org.example.JDBC_Logs - Error executing query: select * from adit. SQLState: 42P01. Message: ERROR: relation "adit" does not exist
+  Position: 15
